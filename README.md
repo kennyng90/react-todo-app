@@ -4,10 +4,12 @@ The Todo App is a simple and responsive React app that stores the data locally. 
 
 This app is created for learning reasons. React hooks and local storage in mind.
 
-<!-- ![](https://github.com/kennyng90/movie-db/blob/master/src/product-screenshot.gif?raw=true) -->
+![](https://github.com/kennyng90/movie-db/blob/master/src/todoapp.gif?raw=true)
 
 ## Demo
 [The Todo App - Live DEMO](https://ken9-todoapp.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c076cb9b-d8de-4251-bf5d-e4f471428ad6/deploy-status)](https://app.netlify.com/sites/ken9-todoapp/deploys)
 
 ## Getting Started
 
