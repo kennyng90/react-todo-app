@@ -29,7 +29,7 @@ function TodoForm(props) {
         { props.edit ? ( <>
         <input
         type="text"
-        placeholder="Add a todo"
+        placeholder="Update text"
         value={input}
         name="text"
         className="todo-input"
