@@ -1,6 +1,6 @@
 ## The Todo App
 
-The Todo App is a simple and responsive todo app. The main function of this app is to add, update and delete item. The items will also be stored in the local storage (The app will remember the items when you hit F5/Refresh the browser).
+The Todo App is a simple and responsive todo app. The main function of this app is to add, update and delete item. The items will also be stored in the local storage.
 
 This app is created for learning reasons. React hooks, styling and local storage in mind.
 
