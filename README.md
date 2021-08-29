@@ -33,7 +33,7 @@ node.js is required to get npm.
    ```
 4. Install NPM or Yarn packages
    ```sh
-   npm install react-icons or yarn add react-icons
+   npm install / yarn
    ```
 6. Start app
    ```sh
